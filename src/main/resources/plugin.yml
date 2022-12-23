@@ -1,0 +1,12 @@
+main: me.kc.chesscraft.< #TODO >
+name: ChessCraft
+version: 1.0.0-SNAPSHOT
+description: Play Chess in Minecraft
+prefix: ChessCraft
+api-version: 1.18
+commands:
+  chesscraft:
+    description: Base Commands
+    usage: /<command>
+    aliases: [cc, chess]
+

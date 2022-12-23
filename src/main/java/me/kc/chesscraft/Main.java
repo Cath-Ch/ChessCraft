@@ -1,4 +1,4 @@
-package org.example;
+package me.kc.chesscraft;
 
 public class Main {
     public static void main(String[] args) {
